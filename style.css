@@ -1,0 +1,32 @@
+h2 {
+    color: orange;
+    /*cor do titulo*/
+}
+
+body {
+    /*cor de fundo*/
+    background-color: #305050;
+    /*cor da fonte*/
+    color: white;
+    /*tipo de fonte*/
+    font-family: Roboto;
+    /*alinhamento*/
+    text-align: center;
+
+}
+
+header{
+    border-bottom: 1px solid grey;
+}
+
+footer{
+    border-top: 1px solid grey;
+}
+
+#nome-usário{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
